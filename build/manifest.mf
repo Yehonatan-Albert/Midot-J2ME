@@ -1,0 +1,8 @@
+MIDlet-1: MidotMIDlet,/icon.png,MidotMIDlet
+MIDlet-Vendor: יהונתן אלברט
+MIDlet-Version: 1.0
+MIDlet-Delete-Confirm: אתה בטוח שברצונך למחוק את מחשבון המידות?
+MIDlet-Name: מידות
+MIDlet-Description: מחשבון מידות
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.1
