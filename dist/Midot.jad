@@ -1,7 +1,7 @@
 MIDlet-1: MidotMIDlet,/icon.png,MidotMIDlet
 MIDlet-Delete-Confirm: אתה בטוח שברצונך למחוק את מחשבון המידות?
 MIDlet-Description: מחשבון מידות
-MIDlet-Jar-Size: 7898
+MIDlet-Jar-Size: 10700
 MIDlet-Jar-URL: Midot.jar
 MIDlet-Name: מידות
 MIDlet-Vendor: יהונתן אלברט
